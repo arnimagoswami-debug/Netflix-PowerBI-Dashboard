@@ -27,6 +27,9 @@ It covers content distribution, genres, release trends, and top contributing cou
 - Excel/CSV Dataset
 - DAX for measures
 
+🗂️ File 
+- <a href= "https://github.com/arnimagoswami-debug/Netflix-PowerBI-Dashboard/blob/main/netflix_titles%20-%20dataset.csv"> Dataset View
+- 
 ## 📷 Dashboard Preview
 ![Dashboard Screenshot](https://github.com/arnimagoswami-debug/Netflix-PowerBI-Dashboard/blob/main/Dashboard%20Screenshot.png)
 ![Genre Screenshot](https://github.com/arnimagoswami-debug/Netflix-PowerBI-Dashboard/blob/main/Genre%20Analysis%20Screenshot.png)
