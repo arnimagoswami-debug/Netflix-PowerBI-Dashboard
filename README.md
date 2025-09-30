@@ -28,9 +28,9 @@ It covers content distribution, genres, release trends, and top contributing cou
 - DAX for measures
 
 ## 📷 Dashboard Preview
-[Dashboard Screenshot]-()
-[Genre Screenshot]-()
-[Trend Screenshot]-()
+![Dashboard Screenshot](https://github.com/arnimagoswami-debug/Netflix-PowerBI-Dashboard/blob/main/Dashboard%20Screenshot.png)
+![Genre Screenshot](https://github.com/arnimagoswami-debug/Netflix-PowerBI-Dashboard/blob/main/Genre%20Analysis%20Screenshot.png)
+![Trend Screenshot](https://github.com/arnimagoswami-debug/Netflix-PowerBI-Dashboard/blob/main/Trend%20Analysis%20Screenshot.png)
 
 ## 📈 Key Insights
 - Movies dominate Netflix with ~70% share.
